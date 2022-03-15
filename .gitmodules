@@ -1,6 +1,7 @@
 [submodule "vector2tile"]
 	path = vector2tile
-	url = https://github.com/ClaraDraper-NOAA/vector2tile.git
+	url = https://github.com/azadeh-gh/vector2tile.git
+        branch=Updated_VarName
 [submodule "landDA_workflow"]
 	path = landDA_workflow
 	url = https://github.com/ClaraDraper-NOAA/landDA_workflow.git
